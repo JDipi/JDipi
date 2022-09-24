@@ -25,3 +25,5 @@ ___
   - Python
   - Rust
   - Go
+
+This GitHub will be my portfolio site until I get time to make an actial one
