@@ -8,6 +8,11 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=JDipi&theme=chartreuse-dark&show_icons=true&include_all_commits=yes&count_private=yes&hide_border=true" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JDipi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
+<p align="center">
+  <img width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDipi&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDipi&theme=github_dark" />
+</p>
+
 ## I know, I know... The stats are unimpressive... For now...
 
 ### Contact me! 
