@@ -22,13 +22,15 @@ ___
   - Scraping the internet
   - Archiving
   - Automating Schoolwork
+  - UX design
 
-### Languages I know / am learning
+### Languages I know
   - Javascript
     - React
     - Svelte
   - Python
-  - Rust
+### Languages I'm learning
+  - C#
   - Go
 
 This GitHub will be my portfolio site until I get time to make an actual one
